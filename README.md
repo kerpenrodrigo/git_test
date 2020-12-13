@@ -1,1 +1,1 @@
-# git_test
+This is Kerpen's first git project
